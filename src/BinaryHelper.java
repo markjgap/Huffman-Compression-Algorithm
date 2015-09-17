@@ -1,10 +1,4 @@
 /**
- * Mark Gapasin
- * University of San Diego
- * COMP 285
- * Spring 2015
- * Instructor: Gautam Wilkins
- *
  * This class implements helper methods for converting between strings of 1's and 0's and
  * their corresponding byte array representations
  */

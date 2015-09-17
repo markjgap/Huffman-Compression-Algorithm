@@ -1,10 +1,4 @@
 /**
- * Mark Gapasin
- * University of San Diego
- * COMP 285
- * Spring 2015
- * Instructor: Gautam Wilkins
- *
  * This class implements Huffman codes for files containing ASCII characters. It can read and compress a file and also
  * decode a compressed file and covert it back to its original ASCII characters.
  */

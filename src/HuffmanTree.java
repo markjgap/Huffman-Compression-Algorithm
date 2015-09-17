@@ -1,10 +1,4 @@
 /**
- * Mark Gapasin
- * University of San Diego
- * COMP 285
- * Spring 2015
- * Instructor: Gautam Wilkins
- *
  * This class implements Huffman trees for use when computing Huffman codes
  */
 
